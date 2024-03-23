@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(34, 30, 30);
+    margin-top: 100px;
+}
+.container{
+    margin-top: 50px;
+    width: 300px;
+    height: 530px;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid black;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+h1{
+    color: white;
+    margin-bottom: 0px;
+}
+.p1{
+    color: hsl(75, 94%, 57%);
+
+}
+.p2{
+    color: white;
+}
+button{
+    background-color: hsl(0, 0%, 42%);
+    border: 0cap;
+    margin: 5px;
+    font-weight: bolder;
+    width: 230px;
+    border-radius: 10px;
+    color: white;
+    padding: 13px;
+
+
+}
+
+.btn{
+    color: black;
+    background-color:  hsl(75, 94%, 57%);
+}
